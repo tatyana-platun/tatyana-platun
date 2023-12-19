@@ -3,9 +3,8 @@
 
 ### 👨‍💻 Обо мне:
 
+Меня зовут Татьяна, я QA Engineer. Здесь я хочу поделиться некоторыми элементами портфолио веб- и мобильного тестирования, полученными во время моего обучения. 
 
-
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
 
 ---
 
