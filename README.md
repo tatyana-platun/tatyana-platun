@@ -74,7 +74,7 @@
 </div>
 
 ---
-<h2> Тестовые артефактs </h2>
+<h2> Тестовые артефакты </h2>
 <p> 
  <ul>
 <li>  <a href="https://github.com/tatyana-platun/Web_Shop.git">Тестирование Web</a>  </li>
