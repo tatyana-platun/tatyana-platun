@@ -6,8 +6,8 @@
 
 ### Меня зовут Татьяна, я QA Engineer. Здесь я хочу поделиться некоторыми элементами портфолио веб- и мобильного тестирования, полученными во время моего обучения. 
 
-<h2> Мое резюме можно посмотреть здесь </h2> <li>  
-### <a href="https://docs.google.com/document/d/11es-BWFABB-KBZu7IDDYJFLso7WdWn7u/edit?usp=sharing&ouid=110162778668144602279&rtpof=true&sd=true"> "Мое резюме" </a>  </li>
+<h2> Мое резюме можно посмотреть здесь </h2> 
+<h2><li> <a href="https://docs.google.com/document/d/11es-BWFABB-KBZu7IDDYJFLso7WdWn7u/edit?usp=sharing&ouid=110162778668144602279&rtpof=true&sd=true"> "Мое резюме" </a>  </li></h2>
 
 ---
 
